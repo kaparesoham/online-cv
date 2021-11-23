@@ -16,7 +16,7 @@ sidebar:
     phone: +91 9881985601 
     website:  #do not add http://
     linkedin: sohamkapare
-    xing: alandoe
+    xing: Soham_Kapare
     github: 
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -71,17 +71,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+   
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -173,13 +163,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: J2EE
         level: 98%
 
-      - name: Angular
+      - name: React
         level: 98%
 
       - name: HTML5 & CSS
